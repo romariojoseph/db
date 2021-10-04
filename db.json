@@ -24,7 +24,9 @@
    
     
   ]
-  "profile": {
+  "profile":[ 
+  {
     "name": "typicode"
   }
+]
 }
