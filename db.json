@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "posts": 
     {
       "id": 1,
       "name": "matriculados",
@@ -23,7 +23,7 @@
     
    
     
-  ],
+  
   "profile": {
     "name": "typicode"
   }
