@@ -2,22 +2,22 @@
   "posts": [
     {
       "id": 1,
-      "name": "matriculados"
+      "name": "matriculados",
       "valor": 67
     },
       {
       "id": 1,
-      "name": "repovados"
+      "name": "repovados",
       "valor": 12
     },
       {
       "id": 1,
-      "name": "transferidos"
+      "name": "transferidos",
       "valor": 15
     },
       {
       "id": 1,
-      "name": "rematiculado"
+      "name": "rematiculado",
       "valor": 67
     },
     
