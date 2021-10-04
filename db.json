@@ -1,29 +1,29 @@
 {
-  "posts": 
+  "posts": [
     {
       "id": 1,
       "name": "matriculados",
-      "valor": 67,
+      "valor": 67
     },
       {
       "id": 2,
       "name": "repovados",
-      "valor": 12,
+      "valor": 12
     },
       {
       "id": 3,
       "name": "transferidos",
-      "valor": 15,
+      "valor": 15
     },
       {
       "id": 4,
       "name": "rematiculado",
-      "valor": 67,
-    },
+      "valor": 67
+    }
     
    
     
-  
+  ]
   "profile": {
     "name": "typicode"
   }
