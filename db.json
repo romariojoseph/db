@@ -2,27 +2,33 @@
   "posts": [
     {
       "id": 1,
-      "name": "matriculados",
-      "valor": 67
+      "name": "Post 1",
+      "valor": "12"
     },
-      {
+    {
       "id": 2,
-      "name": "repovados",
-      "valor": 12
+      "name": "Post 2",
+      "valor": "85"
     },
-      {
+    {
       "id": 3,
-      "name": "transferidos",
-      "valor": 15
-    },
-      {
-      "id": 4,
-      "name": "rematiculado",
-      "valor": 67
+      "name": "Post 3",
+      "valor": "41"
     }
-    
-   
-    
   ],
- 
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
