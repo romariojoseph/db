@@ -1,52 +1,38 @@
 {
-  "posts": [
+  "example1": [
     {
       "id": 1,
-      "title": "Post 1"
+      "first_name": "Ryun",
+      "last_name": "Lathwood",
+      "email": "rlathwood0@bandcamp.com",
+      "gender": "Male",
+      "ip_address": "211.73.218.126"
     },
     {
       "id": 2,
-      "title": "Post 2"
-    },
+      "first_name": "Goldarina",
+      "last_name": "Peatman",
+      "email": "gpeatman1@webs.com",
+      "gender": "Female",
+      "ip_address": "204.83.86.191"
+    }
+  ],
+  "example2": [
     {
       "id": 3,
-      "title": "Post 3"
+      "first_name": "Ken",
+      "last_name": "Birch",
+      "email": "kbirch1@arts.com",
+      "gender": "Male",
+      "ip_address": "211.56.78.190"
     },
     {
       "id": 4,
-      "title": "Post 4"
-    },
-    {
-      "id": 5,
-      "title": "Post 1"
-    },
-    {
-      "id": 6,
-      "title": "Post 2"
-    },
-    {
-      "id": 7,
-      "title": "Post 3"
-    },
-    {
-      "id": 8,
-      "title": "Post 4"
+      "first_name": "Jane",
+      "last_name": "Carter",
+      "email": "jcarter1@carter.com",
+      "gender": "Female",
+      "ip_address": "203.33.86.191"
     }
-  
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
